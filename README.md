@@ -1,6 +1,6 @@
 <!-- Header with animated gradient background -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Mohammed+Alaa+Ala'anzy;Researcher+|+Developer+|+Innovator;" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+👋+I'm+Dr.+Mohammed+Alaa+Ala%27anzy;Associate+Professor+|+Researcher+|+Mentor;" alt="Typing animation" />
 </div>
 
 ---
@@ -8,8 +8,8 @@
 <!-- Profile Introduction -->
 <div align="center">
   <p>
-    <strong>🚀 Passionate about AI, Cloud Computing, Cybersecurity, and Emerging Technologies</strong><br>
-    <em>Exploring intelligent systems that solve real-world challenges</em>
+    <strong>🚀 Associate Professor at SDU University, Kaskelen, Kazakhstan</strong><br>
+    <em>Teaching Algorithms and advancing research in AI, cloud systems, cybersecurity, and emerging technologies</em>
   </p>
 </div>
 
@@ -18,16 +18,36 @@
 ## 🎯 About Me
 
 ```text
-┌───────────────────────────────────────────────────────┐
-│  💻 Research Focus: LLMs, Parallel Computing, Cloud   │
-│  ☁️  Expertise: Scheduling, Cloud Systems, Simulations│
-│  🔐 Interest: Security, IoT/IIoT, Zero-Trust Arch.    │
-│  🔗 Areas: Blockchain, AI, Distributed Systems         │
-│  📊 Passion: Data-driven innovation & scientific work│
-└───────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│  🎓 Dr. Mohammed Alaa Ala'anzy                                     │
+│  🏛️ Associate Professor | SDU University, Kaskelen, Kazakhstan      │
+│  👨‍🏫 Teaching Algorithms                                            │
+│  📘 Book Proposal: Algorithms and Data Structures - Unified          │
+│     correctness proofs and verified practice in Python and Java     │
+│  📝 Under review                                                    │
+│  💻 Researcher in AI, Cloud Computing, Security, and IoT/IIoT      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-I’m a researcher and developer driven by solving complex technical problems through efficient, scalable, and intelligent systems. My work spans cloud computing, distributed systems, AI/ML, and secure industrial technologies.
+I am Dr. Mohammed Alaa Ala'anzy, an Associate Professor at SDU University in Kaskelen, Kazakhstan. I teach Algorithms and am actively engaged in research and innovation across AI, cloud computing, distributed systems, cybersecurity, and industrial IoT.
+
+I am also the author of a book proposal for Synthesis Lectures on Software Engineering titled: <strong>Algorithms and Data Structures - Unified correctness proofs and verified practice in Python and Java</strong>, currently under review.
+
+---
+
+## 🧠 Academic & Teaching Focus
+
+<div align="center">
+
+| Area | Focus |
+|------|-------|
+| **Teaching** | Algorithms, data structures, and foundational programming concepts |
+| **Research** | AI, ML, cloud systems, optimization, and secure distributed computing |
+| **Security** | Zero-trust, cybersecurity, and IIoT systems |
+| **Computation** | Parallel and distributed systems, workflow simulation, scheduling |
+| **Innovation** | Applied research bridging theory and practice |
+
+</div>
 
 ---
 
@@ -170,7 +190,7 @@ This line of work focuses on scheduling and simulation in cloud environments, co
 
 | 🎯 Domain | 📚 Focus | 🔬 Application |
 |-----------|---------|----------------|
-| **Cloud Computing** | Scheduling, Optimization, Simulation | Distributed systems |
+| **Cloud Computing** | Scheduling, optimization, simulation | Distributed systems |
 | **AI/ML** | LLM evaluation, bug taxonomy, model reliability | Research and analysis |
 | **Cybersecurity** | Zero-trust, secure architectures | IIoT and industrial systems |
 | **Blockchain** | Decentralized systems, interoperability | Networked systems |
@@ -229,9 +249,9 @@ This line of work focuses on scheduling and simulation in cloud environments, co
 
 ---
 
-## 💡 Philosophy
+## 💡 Research Philosophy
 
-> “I’m driven by building intelligent, efficient, and secure systems that contribute to science, technology, and real-world impact.”
+> “I am driven by building intelligent, efficient, and secure systems that contribute to science, technology, and meaningful real-world impact.”
 
 ---
 
