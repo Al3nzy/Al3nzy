@@ -1,6 +1,6 @@
 <!-- Header with animated gradient background -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+👋+I'm+Dr.+Mohammed+Alaa+Ala%27anzy;~~Associate+Professor+|+Researcher+|+Mentor;" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+👋+I'm+Dr.+Mohammed+Alaa+Ala%27anzy;~~~Associate+Professor+|+Researcher+|+Mentor;" alt="Typing animation" />
 </div>
 
 ---
